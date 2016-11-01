@@ -1,0 +1,7 @@
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\SampleService\MyServiceLibrary\bin\Debug\MyServiceLibrary.dll
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\SampleService\MyServiceLibrary\bin\Debug\MyServiceLibrary.pdb
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\SampleService\MyServiceLibrary\bin\Debug\DAL.dll
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\SampleService\MyServiceLibrary\bin\Debug\DAL.pdb
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\SampleService\MyServiceLibrary\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\SampleService\MyServiceLibrary\obj\Debug\MyServiceLibrary.dll
+C:\Users\Artsiom_Kazlou1\Documents\Visual Studio 2015\Projects\SampleService\MyServiceLibrary\obj\Debug\MyServiceLibrary.pdb

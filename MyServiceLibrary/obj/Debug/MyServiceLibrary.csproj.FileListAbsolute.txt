@@ -1,0 +1,5 @@
+C:\Users\Artsiom_Kazlou1\Downloads\dotnetbasics-master\Day1\SampleService\MyServiceLibrary\bin\Debug\MyServiceLibrary.dll
+C:\Users\Artsiom_Kazlou1\Downloads\dotnetbasics-master\Day1\SampleService\MyServiceLibrary\bin\Debug\MyServiceLibrary.pdb
+C:\Users\Artsiom_Kazlou1\Downloads\dotnetbasics-master\Day1\SampleService\MyServiceLibrary\obj\Debug\MyServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Artsiom_Kazlou1\Downloads\dotnetbasics-master\Day1\SampleService\MyServiceLibrary\obj\Debug\MyServiceLibrary.dll
+C:\Users\Artsiom_Kazlou1\Downloads\dotnetbasics-master\Day1\SampleService\MyServiceLibrary\obj\Debug\MyServiceLibrary.pdb
